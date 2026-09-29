@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> //pre-processor directive
 
-int main() {
+int main(){
     printf("Hello World");
-    printf("Alsamad");
-    return 0;
+    printf("Razod");
+    return 0; // This is return statement, it returns 0 to the OS
 }
