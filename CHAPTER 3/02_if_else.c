@@ -5,14 +5,14 @@ int main(){
 
     if (age>10){
         printf("Age is greater than 10\n");
-    }else{
+    }
+    else{
         printf("Age is less than 10\n");
     }
 
-    if (age%5==0){
+    if (age%5 == 0){
         printf("Age is divisible by 5\n");
     }
-    
     
     return 0;
 }
