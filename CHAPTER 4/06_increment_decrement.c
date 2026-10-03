@@ -12,6 +12,9 @@ int main(){
     // ++i; //12
     printf("The value of i is %d\n", i++);
 
+    // COMPOUND ASSISGNMENT 
+    i += 2; // Same as i = i + 2; 
+
     // i++; prints i first and then increment i later => POST INCREMENT OPERATOR
     // ++i; increments i first and then print i later => PRE INCREMETN OPERATOR
 
