@@ -9,20 +9,30 @@
 int main(){
     
     int num;
-    int i = 2;
+    int i = 2, prime = 1;
 
     printf("Enter num: ");
     scanf("%d", &num);
 
-    while (i < num) {
-        if (num % i == 0){
-            printf("It's not a prime number");
-            return 0;
+    if ( num <= 1){
+
+        printf("Not a prime number");
+
+    }else{
+
+        while (i < num) {
+            if (num % i == 0){
+                prime = 0;
+            }
+            i++;
         }
-        i++;
+
+        if (prime){
+        printf("Prime number");
+        } else {
+        printf("Not a prime number");
+        }
     }
-    
-    printf("It's a prime number");
 
     return 0;
 }

@@ -6,19 +6,30 @@
 
 int main(){
 
-    int num;
+    int num, prime = 1;
 
     printf("Enter number: ");
     scanf("%d", &num);
 
-    for (int i = 2; i < num; i++){
-        if ( num%i == 0){
-            printf("It's not a prime number");
-            return 0;
+    if (num <= 1){
+
+        printf("Not a prime number\n");
+        
+    }else{
+
+        for (int i = 2; i < num; i++){
+            if ( num%i == 0){
+                prime = 0;
+                break;
+            }
+        }
+
+        if (prime) {
+        printf("Prime numer");
+        } else {
+        printf("Not a prime number");
         }
     }
 
-    printf("It's a prime number");
-    
     return 0;
 }

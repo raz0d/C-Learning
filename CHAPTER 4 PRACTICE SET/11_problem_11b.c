@@ -8,20 +8,31 @@
 
 int main(){
     
-    int num, i = 2;
+    int num, i = 2, prime = 1;
 
     printf("Enter num: ");
     scanf("%d", &num);
 
-    do {
+    if ( num <= 1){
+
+        printf("Not a prime number");
+
+    }else{
+
+        do {
         if ( num % i == 0 && num != i){
-            printf("It's not a prime number");
-            return 0;
+            prime = 0;
         }
         i++;
-    } while (i < num);
+        } while (i < num);
 
-    printf("It's a prime number");
+        if (prime) {
+            printf("Prime number");
+        } else {
+            printf("Not a prime number");
+        }
 
+    }
+    
     return 0;
 }
