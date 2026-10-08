@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int fibonacci_series(int n);
+int fibonacci_series(int);
 int fibonacci_series(int n){
     int nth_term = 0;
     if (n <= 0){
@@ -36,3 +36,23 @@ int main(){
 
     return 0;
 }
+
+// #include <stdio.h>
+
+// // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+// // fibonacci(n) = fibonacci(n-1) + fibonacci(n-2);
+
+// int fibonacci(int);
+
+// int fibonacci(int n){
+//     if(n == 1 || n==2){
+//         return n-1;
+//     }
+//     return fibonacci(n-1) + fibonacci(n-2);
+// }
+ 
+// int main(){
+//     int n = 1;
+//     printf("The value of fibonacci series at %d is %d", n, fibonacci(n));
+//     return 0;
+// }

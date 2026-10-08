@@ -4,11 +4,9 @@
 
 #include <stdio.h>
 
-float temp_conversion(float degree_celcius);
+float temp_conversion(float);
 float temp_conversion(float degree_celcius){
-    float degree_fahrenheit;
-    degree_fahrenheit = (degree_celcius * 1.8) + 32;
-    return degree_fahrenheit;
+    return (degree_celcius * 1.8) + 32;
 }
 
 int main(){

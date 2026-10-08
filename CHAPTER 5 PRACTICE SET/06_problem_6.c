@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-int sum_of_N(int n);
+int sum_of_N(int);
 int sum_of_N(int n){
 
     if (n == 0){

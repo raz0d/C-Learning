@@ -3,10 +3,9 @@
 */
 #include <stdio.h>
 
-float average(float a, float b, float c);
+float average(float, float, float);
 float average(float a, float b, float c){
-    float avg = (a+b+c)/3;
-    return avg;
+    return (a+b+c)/3;
 }
 
 int main(){
