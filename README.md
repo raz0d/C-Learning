@@ -15,14 +15,13 @@ This is an ongoing learning journey, not a completed course or a finished projec
 - Course: C Programming Tutorial for Beginners (10 Hours)
 - Course Structure: 11 Chapters, Practice Sets, and Projects
 
-📂 Repository Structure
+<h2>📂 Repository Structure</h2>
 
-The repository is organised into separate directories for chapter-wise programs, practice sets, and projects.
-
+<pre>
 C-Learning/
 ├── CHAPTER 0/
 ├── CHAPTER 1/
-├── CHAPTER 1 PRACTICE set/
+├── CHAPTER 1 PRACTICE SET/
 ├── CHAPTER 2/
 ├── CHAPTER 2 PRACTICE SET/
 ├── CHAPTER 3/
@@ -33,8 +32,9 @@ C-Learning/
 ├── CHAPTER 5 PRACTICE SET/
 ├── CHAPTER 6/
 ├── CHAPTER 6 PRACTICE SET/
-├── PROJECT 1/
-└── .gitattributes
+└── PROJECT 1/
+    └── main.c
+</pre>
 
 The structure will expand as I work through the remaining chapters, exercises, and projects.
 
