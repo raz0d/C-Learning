@@ -10,8 +10,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" alt="C Language">
-  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge" alt="Beginner Level">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" alt="C Language">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge" alt="Beginner Level">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="In Progress">
 </p>
 
@@ -33,22 +33,39 @@ I'll continue uploading code, solving practice questions, and adding projects as
 
 > 💡 This is an ongoing learning journey, not a completed course or a finished project.
 
+
 ## 📚 Learning Resource
 
-<table>
-  <tr>
-    <td><strong>🎓 Instructor</strong></td>
-    <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
-  </tr>
-  <tr>
-    <td><strong>🎥 Course</strong></td>
-    <td>C Programming Tutorial for Beginners (10 Hours)</td>
-  </tr>
-  <tr>
-    <td><strong>📑 Structure</strong></td>
-    <td>11 Chapters, Practice Sets, and Projects</td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://youtu.be/aZb0iu4uGwA">
+  <img src="https://img.youtube.com/vi/aZb0iu4uGwA/maxresdefault.jpg" alt="CodeWithHarry C Programming Tutorial" width="80%">
+</a>
+
+<p align="center">
+  <a href="https://youtu.be/aZb0iu4uGwA">
+    <strong>C Language Tutorial for Beginners</strong>
+  </a>
+</p>
+
+<p>
+  <strong>Instructor:</strong>
+  <a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Duration-10%20Hours-blue?style=flat-square" alt="Duration">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Chapters-0--11-green?style=flat-square" alt="Chapters">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Includes-Practice%20Sets-orange?style=flat-square" alt="Practice Sets">
+</p>
+
+<p>
+  <a href="https://youtu.be/aZb0iu4uGwA">▶ Watch on YouTube</a>
+</p>
+
+</div>
+
+I'm following this tutorial chapter by chapter, completing practice questions and building projects as I learn. All code in this repository represents my personal learning and practice.
 
 ## 📂 Repository Structure
 
@@ -56,6 +73,7 @@ I'll continue uploading code, solving practice questions, and adding projects as
 C-Learning/
 │
 ├── CHAPTER 0/
+│
 ├── CHAPTER 1/
 ├── CHAPTER 1 PRACTICE SET/
 │
@@ -94,7 +112,9 @@ C-Learning/
 
 ## 🚀 Projects
 
-### 🎮 1. Number Guessing Game
+<p>
+    <strong style="font-size: 1.17em;">🎮 1. Number Guessing Game</strong>
+</p>
 
 A simple console-based game in which the computer generates a random number between **1 and 100**, and the player tries to guess it.
 
@@ -116,9 +136,13 @@ A simple console-based game in which the computer generates a random number betw
 
 <p>
   <img src="https://img.shields.io/badge/C-Programming-blue?style=flat-square&logo=c" alt="C">
+  <br>
   <img src="https://img.shields.io/badge/GCC-Compiler-lightgrey?style=flat-square&logo=gnu" alt="GCC">
+  <br>
   <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode" alt="Visual Studio Code">
+  <br>
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git" alt="Git">
+  <br>
   <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=flat-square&logo=github" alt="GitHub">
 </p>
 
