@@ -112,9 +112,9 @@ C-Learning/
 
 ## 🚀 Projects
 
-<p>
-    <strong style="font-size: 1.17em;">🎮 1. Number Guessing Game</strong>
-</p>
+<h3>
+    🎮 1. Number Guessing Game
+</h3>
 
 A simple console-based game in which the computer generates a random number between **1 and 100**, and the player tries to guess it.
 
