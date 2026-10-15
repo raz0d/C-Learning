@@ -70,30 +70,34 @@ I'm following this tutorial chapter by chapter, completing practice questions an
 ## 📂 Repository Structure
 
 <pre>
-C-Learning/
-│
-├── CHAPTER 0/
-│
-├── CHAPTER 1/
-├── CHAPTER 1 PRACTICE SET/
-│
-├── CHAPTER 2/
-├── CHAPTER 2 PRACTICE SET/
-│
-├── CHAPTER 3/
-├── CHAPTER 3 PRACTICE SET/
-│
-├── CHAPTER 4/
-├── CHAPTER 4 PRACTICE SET/
-│
-├── CHAPTER 5/
-├── CHAPTER 5 PRACTICE SET/
-│
-├── CHAPTER 6/
-├── CHAPTER 6 PRACTICE SET/
-│
-└── PROJECT 1/
-    └── main.c
+  
+  C-Learning/
+  │
+  ├── CHAPTER 0/
+  │
+  ├── CHAPTER 1/
+  ├── CHAPTER 1 PRACTICE SET/
+  │
+  ├── CHAPTER 2/
+  ├── CHAPTER 2 PRACTICE SET/
+  │
+  ├── CHAPTER 3/
+  ├── CHAPTER 3 PRACTICE SET/
+  │
+  ├── CHAPTER 4/
+  ├── CHAPTER 4 PRACTICE SET/
+  │
+  ├── CHAPTER 5/
+  ├── CHAPTER 5 PRACTICE SET/
+  │
+  ├── CHAPTER 6/
+  ├── CHAPTER 6 PRACTICE SET/
+  │
+  ├── PROJECT 1/
+  │     └── main.c
+  │
+  └── ... More chapters, practice sets, and projects
+          will be added as I progress through the course! 🚀
 </pre>
 
 <p align="center">
