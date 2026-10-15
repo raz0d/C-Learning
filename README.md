@@ -70,7 +70,6 @@ I'm following this tutorial chapter by chapter, completing practice questions an
 ## 📂 Repository Structure
 
 <pre>
-  
   C-Learning/
   │
   ├── CHAPTER 0/
