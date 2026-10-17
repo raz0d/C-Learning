@@ -92,6 +92,8 @@ I'm following this tutorial chapter by chapter, completing practice questions an
   ├── CHAPTER 6/
   ├── CHAPTER 6 PRACTICE SET/
   │
+  ├── CHAPTER 7/
+  │
   ├── PROJECT 1/
   │     └── main.c
   │
