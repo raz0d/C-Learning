@@ -13,7 +13,7 @@ int main() {
 
     printf("Pointer value: %u\n", ptr_of_first_elemet);
     
-    printf("Element at (value of pointer + 2): %d\n", *(ptr_of_first_elemet + 2));
+    printf("Element at (ptr + 2): %d\n", *(ptr_of_first_elemet + 2));
     
     return 0;
 }

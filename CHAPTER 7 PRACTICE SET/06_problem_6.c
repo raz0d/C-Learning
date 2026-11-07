@@ -20,7 +20,7 @@ int count(int *ptr, int length) {
     for (int i = 0; i < (length); i++) {
         if (*ptr > 0) {
             count += 1;
-        } 
+        }     
         ptr++;
     }
     return count;

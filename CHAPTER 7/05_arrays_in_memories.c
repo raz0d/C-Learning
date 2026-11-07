@@ -13,7 +13,7 @@ int main() {
     }
 
     for (int i = 0; i < 5; i++){
-        printf("Address of value %d: %d\n", i+1, &marks[i]);
+        printf("Address of value %d: %d\1n", i+1, &marks[i]);
     }
     
     return 0;
