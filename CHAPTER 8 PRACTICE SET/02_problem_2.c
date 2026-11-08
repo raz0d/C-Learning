@@ -9,7 +9,8 @@ int main() {
     char str1[6];
     for (int i = 0; i < 5; i++) {
         printf("Element %d of the str1: ", i+1);
-        scanf(" %c", &str1[i]);
+        scanf("%c", &str1[i]);
+        fflush(stdin);
     }
     str1[5] = '\0';
 
