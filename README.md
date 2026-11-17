@@ -93,6 +93,14 @@ I'm following this tutorial chapter by chapter, completing practice questions an
   ├── CHAPTER 6 PRACTICE SET/
   │
   ├── CHAPTER 7/
+  ├── CHAPTER 7 PRACTICE SET/
+  │
+  ├── CHAPTER 8/
+  ├── CHAPTER 8 PRACTICE SET/
+  │
+  ├── CHAPTER 9/
+  ├── CHAPTER 9 PRACTICE SET/
+  │
   │
   ├── PROJECT 1/
   │     └── main.c
