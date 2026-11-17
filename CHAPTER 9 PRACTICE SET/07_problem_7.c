@@ -3,7 +3,7 @@
 */
 
 /*
-Write a program with a structure representing a complex number.
+5. Write a program with a structure representing a complex number.
 */
 
 #include <stdio.h>
@@ -40,5 +40,12 @@ int main() {
 }
 
 void show(Z z) {
-    printf("%d + %di\n", z.a, z.b);
+    if (z.b > 0) {
+        printf("%d + %di\n", z.a, z.b);
+    }
+    else if (z.b < 0) {
+        printf("%d %di\n", z.a, z.b);
+    } else {
+        printf("%d \n", z.a);
+    }
 }
